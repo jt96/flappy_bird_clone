@@ -11,7 +11,7 @@ A clone of the flappy bird game in python with the pygame module.
 ## Getting Started <a name = "getting_started"></a>
 To give the game a try, git clone the repository to your pc and run the main.py file in your IDE.
 
-[![preview.png](https://i.postimg.cc/ZnnHvtwQ/preview.png)](https://postimg.cc/vxRfCjF7)
+[![gameplay.png](https://i.postimg.cc/q7B1H380/gameplay.png)](https://postimg.cc/FYqyj1Wn)
 
 [![paused.png](https://i.postimg.cc/QxkgNMNM/paused.png)](https://postimg.cc/N5F2pBHh)
 
